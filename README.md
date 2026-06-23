@@ -1,4 +1,4 @@
-# Causal Study of Personalised Campaigns Across Demographic Groups
+# Causal Inference on Retail Campaign Effectiveness Using Databricks and EconML
 
 ## Project Motivation
 - Randomised controlled trials are the gold standard for causal inference
